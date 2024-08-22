@@ -7,4 +7,9 @@ data/
 horse-or-human.zip
 validation-horse-or-human.zip
 inception_v3.h5
+rock-paper-scissors.zip
+validation-rock-paper-scissors.zip
+
+# Other files
+.DS_Store
 
